@@ -1,0 +1,1 @@
+web: gunicorn main:app --lof-file -
